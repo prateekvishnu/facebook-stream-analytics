@@ -1,0 +1,8 @@
+# building
+target
+src/main/resources/datasets/streaming
+
+# Eclipse
+.classpath
+.project
+.settings
